@@ -107,7 +107,7 @@ Enter your choice: 1
 ----- ADD COURSE -----
 Enter Course ID: 101
 Enter Course Name: Java
-Enter Instructor Name: Rahul
+Enter Instructor Name: Dnyaneshwari
 Enter Duration in Months: 3
 Enter Fees: 5000
 Course added successfully!
@@ -121,7 +121,7 @@ Enter your choice: 2
 ----- ALL COURSES -----
 Course ID: 101
 Course Name: Java
-Instructor: Rahul
+Instructor: Dnyaneshwari
 Duration: 3 months
 Fees: 5000.0
 -----------------------------
@@ -136,7 +136,7 @@ Enter Course ID: 101
 Course Found:
 Course ID: 101
 Course Name: Java
-Instructor: Rahul
+Instructor: Dnyaneshwari
 Duration: 3 months
 Fees: 5000.0
 -----------------------------
